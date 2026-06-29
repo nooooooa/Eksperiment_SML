@@ -30,8 +30,10 @@ The preprocessing steps include:
 ```
 Titanic-Data-Preprocessing/
 │
-├── Eksperimen_NicholasGhonius.ipynb
-├── titanic_preprocessing.csv
+├── preprocessing
+    ├── Eksperimen_NicholasGhonius.ipynb
+    ├── titanic_preprocessing.csv
+├── titanic_raw.csv
 ├── requirements.txt
 └── README.md
 ```
